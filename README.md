@@ -129,4 +129,4 @@ tk
 ## 🏆 Author
 **Midhun Haridas**  
 💼 *Aspiring Data Analyst | Python Developer | Innovator*  
-🔗 [LinkedIn Profile](www.linkedin.com/in/midhun-h-231b25224) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/midhun-h-231b25224) 
